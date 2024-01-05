@@ -1,3 +1,3 @@
 <div align = 'center'>
-  ### CAMPO MINADO
+  <h1>Campo Minado</h1>
 </div>
