@@ -1,2 +1,3 @@
-# Campo-Minado
-Meu protótipo do antigo jogo "Campo Minado"
+<div align = 'center'>
+  ### CAMPO MINADO
+</div>
